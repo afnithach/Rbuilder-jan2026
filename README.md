@@ -2,9 +2,11 @@
 
 
 
-
-
-
+git init
+git add .
+git commit -m "started"
+git repositry code copy paste git remote add origin https://github.com/afnithach/Rbuilder-jan2026.git
+git push origin master
 
 
 
